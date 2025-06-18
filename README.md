@@ -26,7 +26,7 @@ Live URL
 https://chatbot-zerocode-fe-assignme.netlify.app/
 
 Screenshots
-![image alt](https://github.com/sarathy2803/chatBot-zerocode-fe-assignment/blob/d0ee523a31c7b65c0fa1322fa42f033d58f43bbf/Screenshot%20(39).png)
+![image alt](https://github.com/sarathy2803/chatBot-zerocode-fe-assignment/blob/d83dbc1b3e184c1e170b3e1a3879789378c93bad/Screenshot%20(39).png)
 
 
 
